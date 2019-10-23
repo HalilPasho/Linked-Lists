@@ -1,4 +1,4 @@
 # Linked-Lists
 
-Some data structure about linked-lists in JavaAcript!
+Some Data Structure examples about linked-lists in JavaScript!
 
